@@ -1,0 +1,10 @@
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    height: 3rem;
+}
+.button:active {
+    background-color: #d1d5db;
+}
